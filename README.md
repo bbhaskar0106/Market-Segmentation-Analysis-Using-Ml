@@ -1,0 +1,1 @@
+Market segmentation analysis using McDonald's dataset typically involves analyzing customer data to identify distinct groups or segments based on various characteristics such as demographics, behavior, and preferences.
